@@ -8,6 +8,7 @@ public class SeederApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SeederApplication.class, args);
+		
 	}
 
 }
